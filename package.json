@@ -1,0 +1,13 @@
+{
+  "name": "app.js",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-coffee": "latest",
+    "grunt-bumpup": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-clean": "latest",
+    "grunt-contrib-requirejs": "latest",
+    "jit-grunt": "latest"
+  }
+}
